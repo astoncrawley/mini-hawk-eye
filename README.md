@@ -5,9 +5,9 @@ This project analyses the capabilities of single and dual camera variants of the
 
 
 ## 🗂️ Project Structure
-├── data/ # Raw and processed data (or links to sources)
-├── notebooks/ # Jupyter notebooks for exploration and modelling
-├── src/ # Python scripts
+├── data/ # Raw and processed data (or links to sources)  
+├── notebooks/ # Jupyter notebooks for exploration and modelling  
+├── src/ # Python scripts  
 └── README.md # Project documentation
 
 
