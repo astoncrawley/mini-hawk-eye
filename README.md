@@ -13,4 +13,5 @@ This project analyses the capabilities of single and dual camera variants of the
 
 ## 🛠️ Tools & Libraries
 - Python (3.10+)  
-- NumPy  
+- NumPy
+- OpenCV
