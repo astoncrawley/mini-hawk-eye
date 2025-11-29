@@ -15,3 +15,4 @@ This project analyses the capabilities of single and dual camera variants of the
 - Python (3.10+)  
 - NumPy
 - OpenCV
+- Scikit-image
